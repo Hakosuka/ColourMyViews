@@ -8,4 +8,6 @@
     <string name="str_btn_red">RED</string>
     <string name="str_btn_ylw">YELLOW</string>
     <string name="str_btn_grn">GREEN</string>
+    <string name="how_to">How to use:</string>
+    <string name="app_instructions">Tap the screen and buttons</string>
 </resources>
